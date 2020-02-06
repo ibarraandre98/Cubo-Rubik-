@@ -1,0 +1,58 @@
+c:\users\muski\documents\visual studio 2012\Projects\CUBORUBIK1\CUBORUBIK1\bin\Debug\CUBORUBIK1.exe.config
+c:\users\muski\documents\visual studio 2012\Projects\CUBORUBIK1\CUBORUBIK1\bin\Debug\CUBORUBIK1.exe
+c:\users\muski\documents\visual studio 2012\Projects\CUBORUBIK1\CUBORUBIK1\bin\Debug\CUBORUBIK1.pdb
+c:\users\muski\documents\visual studio 2012\Projects\CUBORUBIK1\CUBORUBIK1\bin\Debug\SharpGL.dll
+c:\users\muski\documents\visual studio 2012\Projects\CUBORUBIK1\CUBORUBIK1\bin\Debug\SharpGL.SceneGraph.dll
+c:\users\muski\documents\visual studio 2012\Projects\CUBORUBIK1\CUBORUBIK1\bin\Debug\SharpGL.WinForms.dll
+c:\users\muski\documents\visual studio 2012\Projects\CUBORUBIK1\CUBORUBIK1\bin\Debug\SharpGL.pdb
+c:\users\muski\documents\visual studio 2012\Projects\CUBORUBIK1\CUBORUBIK1\bin\Debug\SharpGL.xml
+c:\users\muski\documents\visual studio 2012\Projects\CUBORUBIK1\CUBORUBIK1\bin\Debug\SharpGL.SceneGraph.pdb
+c:\users\muski\documents\visual studio 2012\Projects\CUBORUBIK1\CUBORUBIK1\bin\Debug\SharpGL.SceneGraph.xml
+c:\users\muski\documents\visual studio 2012\Projects\CUBORUBIK1\CUBORUBIK1\bin\Debug\SharpGL.WinForms.pdb
+c:\users\muski\documents\visual studio 2012\Projects\CUBORUBIK1\CUBORUBIK1\bin\Debug\SharpGL.WinForms.xml
+c:\users\muski\documents\visual studio 2012\Projects\CUBORUBIK1\CUBORUBIK1\obj\x86\Debug\CUBORUBIK1.csprojResolveAssemblyReference.cache
+c:\users\muski\documents\visual studio 2012\Projects\CUBORUBIK1\CUBORUBIK1\obj\x86\Debug\CUBORUBIK1.Properties.Resources.resources
+c:\users\muski\documents\visual studio 2012\Projects\CUBORUBIK1\CUBORUBIK1\obj\x86\Debug\CUBORUBIK1.SharpGLForm.resources
+c:\users\muski\documents\visual studio 2012\Projects\CUBORUBIK1\CUBORUBIK1\obj\x86\Debug\CUBORUBIK1.csproj.GenerateResource.Cache
+c:\users\muski\documents\visual studio 2012\Projects\CUBORUBIK1\CUBORUBIK1\obj\x86\Debug\CUBORUBIK1.exe
+c:\users\muski\documents\visual studio 2012\Projects\CUBORUBIK1\CUBORUBIK1\obj\x86\Debug\CUBORUBIK1.pdb
+F:\CUBORUBIK1\CUBORUBIK1\bin\Debug\CUBORUBIK1.exe.config
+F:\CUBORUBIK1\CUBORUBIK1\obj\x86\Debug\CUBORUBIK1.exe
+F:\CUBORUBIK1\CUBORUBIK1\obj\x86\Debug\CUBORUBIK1.pdb
+E:\CUBORUBIK1\CUBORUBIK1\bin\Debug\CUBORUBIK1.exe.config
+E:\CUBORUBIK1\CUBORUBIK1\bin\Debug\CUBORUBIK1.exe
+E:\CUBORUBIK1\CUBORUBIK1\bin\Debug\CUBORUBIK1.pdb
+E:\CUBORUBIK1\CUBORUBIK1\bin\Debug\SharpGL.dll
+E:\CUBORUBIK1\CUBORUBIK1\bin\Debug\SharpGL.SceneGraph.dll
+E:\CUBORUBIK1\CUBORUBIK1\bin\Debug\SharpGL.WinForms.dll
+E:\CUBORUBIK1\CUBORUBIK1\bin\Debug\SharpGL.pdb
+E:\CUBORUBIK1\CUBORUBIK1\bin\Debug\SharpGL.xml
+E:\CUBORUBIK1\CUBORUBIK1\bin\Debug\SharpGL.SceneGraph.pdb
+E:\CUBORUBIK1\CUBORUBIK1\bin\Debug\SharpGL.SceneGraph.xml
+E:\CUBORUBIK1\CUBORUBIK1\bin\Debug\SharpGL.WinForms.pdb
+E:\CUBORUBIK1\CUBORUBIK1\bin\Debug\SharpGL.WinForms.xml
+E:\CUBORUBIK1\CUBORUBIK1\obj\x86\Debug\CUBORUBIK1.csprojAssemblyReference.cache
+E:\CUBORUBIK1\CUBORUBIK1\obj\x86\Debug\CUBORUBIK1.Properties.Resources.resources
+E:\CUBORUBIK1\CUBORUBIK1\obj\x86\Debug\CUBORUBIK1.SharpGLForm.resources
+E:\CUBORUBIK1\CUBORUBIK1\obj\x86\Debug\CUBORUBIK1.csproj.GenerateResource.cache
+E:\CUBORUBIK1\CUBORUBIK1\obj\x86\Debug\CUBORUBIK1.csproj.CoreCompileInputs.cache
+E:\CUBORUBIK1\CUBORUBIK1\obj\x86\Debug\CUBORUBIK1.csproj.CopyComplete
+E:\CUBORUBIK1\CUBORUBIK1\obj\x86\Debug\CUBORUBIK1.exe
+E:\CUBORUBIK1\CUBORUBIK1\obj\x86\Debug\CUBORUBIK1.pdb
+F:\CUBORUBIK1\CUBORUBIK1\bin\Debug\CUBORUBIK1.exe
+F:\CUBORUBIK1\CUBORUBIK1\bin\Debug\CUBORUBIK1.pdb
+F:\CUBORUBIK1\CUBORUBIK1\bin\Debug\SharpGL.dll
+F:\CUBORUBIK1\CUBORUBIK1\bin\Debug\SharpGL.SceneGraph.dll
+F:\CUBORUBIK1\CUBORUBIK1\bin\Debug\SharpGL.WinForms.dll
+F:\CUBORUBIK1\CUBORUBIK1\bin\Debug\SharpGL.pdb
+F:\CUBORUBIK1\CUBORUBIK1\bin\Debug\SharpGL.xml
+F:\CUBORUBIK1\CUBORUBIK1\bin\Debug\SharpGL.SceneGraph.pdb
+F:\CUBORUBIK1\CUBORUBIK1\bin\Debug\SharpGL.SceneGraph.xml
+F:\CUBORUBIK1\CUBORUBIK1\bin\Debug\SharpGL.WinForms.pdb
+F:\CUBORUBIK1\CUBORUBIK1\bin\Debug\SharpGL.WinForms.xml
+F:\CUBORUBIK1\CUBORUBIK1\obj\x86\Debug\CUBORUBIK1.csprojAssemblyReference.cache
+F:\CUBORUBIK1\CUBORUBIK1\obj\x86\Debug\CUBORUBIK1.Properties.Resources.resources
+F:\CUBORUBIK1\CUBORUBIK1\obj\x86\Debug\CUBORUBIK1.SharpGLForm.resources
+F:\CUBORUBIK1\CUBORUBIK1\obj\x86\Debug\CUBORUBIK1.csproj.GenerateResource.cache
+F:\CUBORUBIK1\CUBORUBIK1\obj\x86\Debug\CUBORUBIK1.csproj.CoreCompileInputs.cache
+F:\CUBORUBIK1\CUBORUBIK1\obj\x86\Debug\CUBORUBIK1.csproj.CopyComplete
